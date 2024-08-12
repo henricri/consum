@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-    spec.name                     = 'consum'
+    spec.name                     = 'consum-dnkfnl'
     spec.version                  = '1.0'
     spec.homepage                 = 'https://google.com'
     spec.source                   = { :git => "https://github.com/henricri/consum.git", :tag => "1.0" }
