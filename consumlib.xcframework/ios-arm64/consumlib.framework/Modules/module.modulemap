@@ -1,0 +1,8 @@
+framework module consumlib {
+    umbrella header "consumlib.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
